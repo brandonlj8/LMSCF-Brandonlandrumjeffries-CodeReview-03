@@ -112,7 +112,7 @@ li {
 .one{
   padding-right: 2%;
 }
-/*text insinde boxes spacing*/
+/*text insinde boxes spacing^*/
 .greyarea{
   height: 50%;
   width: 50%;
@@ -126,7 +126,7 @@ li {
   border-radius: 20px;
   text-align: center;
 }
-
+/*overlay grey box^*/
 .contentrow1{
 display: flex;
 justify-content: center;
@@ -218,7 +218,12 @@ button{
   border-radius: 7px;
   font-size: 19px;
 }
-
+#tables{
+  column-count: 3;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0; 
+}
 
 
 /*tablet media query*/
