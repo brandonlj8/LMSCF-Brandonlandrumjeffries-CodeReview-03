@@ -1,0 +1,80 @@
+team = [{
+       "firstName": "Terrence",
+       "lastName": "Williams",
+       "emailAddress": "tgreatness75@gmail.com",
+       "jobTitleName": "HR Director",
+       "salary": "$2,200",
+       "photo": "<img width=100% src=terrence.jpg>"
+},
+{
+       "firstName": "David",
+       "lastName": "jeffrson",
+       "emailAddress": "d.jeffrson@gmail.com",
+       "jobTitleName": "Police Officer",
+       "salary": "$1,400",
+       "photo": "<img width=100% src=david.jpg>"
+},
+{
+       "firstName": "Omarion",
+       "lastName": "biggims",
+       "emailAddress": "O.biggims@gmail.com",
+       "jobTitleName": "Receptionist",
+       "salary": "$800",
+       "photo": "<img width=100% src=omarion.jpg>"
+},
+{
+       "firstName": "Otto",
+       "lastName": "Muller",
+       "emailAddress": "Omuller@gmail.com",
+       "jobTitleName": "Farmer",
+       "salary": "$1,900",
+       "photo": "<img width=100% src=otto.jpg>"
+},
+{
+       "firstName": "Susannan",
+       "lastName": "Donkor",
+       "emailAddress": "susannan.Donkor@gmail.com",
+       "jobTitleName": "Soldier",
+       "salary": "5,000",
+       "photo": "<img width=100% src=donkor.jpg>"
+},
+{
+       "firstName": "Malik",
+       "lastName": "Erby",
+       "emailAddress": "m.erby@gmail.com",
+       "jobTitleName": "Airman",
+       "salary": "$1,000",
+       "photo": "<img width=100% src=erby.jpg>"
+},
+{
+       "firstName": "Robert",
+       "lastName": "Alves",
+       "emailAddress": "Bob.a@gmail.com",
+       "jobTitleName": "Navy Seal",
+       "salary": "$10,000",
+       "photo": "<img width=100% src=alves.jpg>"
+},
+{
+       "firstName": "Tom",
+       "lastName": "Hanks",
+       "emailAddress": "forest.gump@gmail.com",
+       "jobTitleName": "Veteran",
+       "salary": "$1,500",
+       "photo": "<img width=100% src=forrest.jpg>"
+},
+{
+       "firstName": "Luke",
+       "lastName": "Sky Walker",
+       "emailAddress": "funnyjedi10@gmail.com",
+       "jobTitleName": "Rebel",
+       "salary": "$5,000",
+       "photo": "<img width=100% src=luke.jpg>"
+},
+{
+       "firstName": "Bill",
+       "lastName": "Gates",
+       "emailAddress": "Billgates@microsoftedge.com",
+       "jobTitleName": "Sale man",
+       "salary": "$1,000,000,000,000",
+       "photo": "<img width=100% src=Bill.jpg>"
+}]

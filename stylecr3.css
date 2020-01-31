@@ -1,0 +1,234 @@
+body {
+  width: 90%;
+  margin: 0 auto; 
+  
+}
+#carcoverage{
+  width: 100%;
+  padding-top: 0;
+  background-color: #CECECE; 
+}
+#light{
+  width: 100%;
+  margin:  0 auto;
+  height: 650px;
+
+
+}
+
+#traffic{
+ background-color: #CECECE;
+ 
+}
+
+#toprow{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 100%;
+  font-weight: 400;
+}
+#greyboxtext{
+  text-align: center;
+  margin-top: 0;
+  padding-top: 1.4%;
+  margin-bottom: 5%;
+  padding-bottom: 1.4%;
+  font-family: Palatino, serif;
+  font-size: 120%;
+  background-color: #CECECE; 
+
+}  
+.blah{
+  position: relative;
+
+}
+
+.schweden{
+  position: absolute;
+  bottom: 87%;
+  left: 4.5%;
+  color: white;
+  font-size: 150%;
+
+}
+
+#cartext{
+  position: relative;
+}
+a {
+  text-decoration: none;
+  color: white; }
+
+header {
+  background-color: #FFF3F3;
+  margin: 0 auto; }
+
+nav {
+  background-color: #8E1616;
+  text-align: left; }
+.nav1 {
+  background-color:  black;
+}
+  nav li a {
+    text-decoration: none; }
+
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  width: 100%;
+  display: inline-block;
+  display: flex;
+  line-height: 2em; 
+  margin-bottom: 0;
+}
+
+li {
+  padding: 0 5px;
+  color: white;
+  font-size: 150%; }
+
+.withlogo {
+  margin-left: 3.5%;
+  margin-right: 3.5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 25px; }
+
+.insurancecf {
+  padding-top: 1%; }
+
+.banner-1 {
+  padding-top: 12px; }
+
+.three{
+  margin-left: 2%;
+}
+
+.two{
+  margin-left: 17%;
+}
+.one{
+  padding-right: 2%;
+}
+/*text insinde boxes spacing*/
+.greyarea{
+  height: 50%;
+  width: 50%;
+  background-color: #CECECE;
+  position: absolute;
+  right: 10%;
+  top:  55%;
+  left: 25%;
+  border: 2px solid black;
+  opacity: .8;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.contentrow1{
+display: flex;
+justify-content: center;
+padding-top: 4%;
+}
+
+.contentrow2{
+ margin-top: 5%; 
+display: flex;
+justify-content: center;
+}
+.boxcontent{
+  text-align: center;
+}
+#quote{
+  font-family: cursive;
+  margin: 0;
+}
+#footer {
+  background-color: black;
+  width: 100%;
+  margin-top: 5%; }
+
+.name {
+  text-align: center;
+  margin-bottom: 0px;
+  color: white; }
+
+#toprow{
+  font-size: 26px;
+}
+
+
+.logo5 {
+  margin-right: 1%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: right; 
+}
+
+.Boxarea {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  font-family: arial;
+  color: gray;
+
+}
+/* defining space of two boxes */
+.Boxes {
+  width: 27%;
+  border: 2px solid lightgrey;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding: 3%;
+  box-shadow: 1px 1px 1px #ccc, -1px 1px 1px #ccc;
+  border-top: 3px solid #171717
+}
+
+p{
+margin-bottom: 0;
+margin-top: 1%;
+}
+/*^for the p element to be sized correctly in the boxes */
+.H3 {
+  font-size: 150%;
+  color: #5992C1
+}
+/*headline of the box^*/
+.P3 {
+  color: black;
+}
+/*P3 allows the two black colored words to have a different color than the rest of the text */
+.Boxtext {
+  margin-left: 7%;
+  margin-bottom: 5% ;
+}
+
+#result{
+  color: green;
+  margin: 0;
+}
+/*insurance result^*/
+
+button{
+  margin-top: 1.5%;
+  background-color: green;
+  color: white;
+  border-radius: 7px;
+  font-size: 19px;
+}
+
+
+
+/*tablet media query*/
+@media only screen and (min-width: 481px) and (max-width: 770px){
+	.container{
+		width: 100%;
+		margin:  0 auto;
+}
+.mobilehide{
+  display: none;  
+}
+
+/*# sourceMappingURL=stylecr2.css.map */
