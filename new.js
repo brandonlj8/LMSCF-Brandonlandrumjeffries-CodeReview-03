@@ -10,13 +10,13 @@ function insurance(){
 			switch( countryId ) {
 				case 1: // Austria
 					insurance = hp * 100 / age + 50;
-					break;
+					break; //stops when austria is selected
 				case 2: // Hungary
 					insurance = hp * 120 / age + 100;
-					break;
+					break; //stops when hungary is selected
 				case 3: // Greece
-					insurance = hp * 150 / age + 50;
-					break;
+					insurance = hp * 150 / (age + 3) + 50;
+					break; //stops when greece is selected
 			}
 			
 			document.getElementById("result").innerHTML= name + "'s YR payments are $" + insurance;
